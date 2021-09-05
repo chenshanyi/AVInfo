@@ -1,8 +1,6 @@
 # AVInfo
 ```
     音视频学习资料
-    ![image](https://user-images.githubusercontent.com/32410793/132126703-41624cc8-4341-41f2-af83-4ed508df70d0.png)
-
 ```
 
 ### 一、音视频协议
